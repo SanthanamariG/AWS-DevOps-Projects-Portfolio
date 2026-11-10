@@ -51,7 +51,7 @@ The following diagram illustrates the end-to-end DevSecOps
 workflow, including CI/CD automation, security scanning,
 GitOps deployment, AWS EKS, and application monitoring.
 
-![AWS DevSecOps Architecture](screenshot/devsecops-architecture.png)
+![AWS DevSecOps Architecture](Screenshot/Devsecops-architecture.png)
 
 ### Architecture Workflow
 
