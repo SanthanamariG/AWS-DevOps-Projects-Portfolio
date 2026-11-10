@@ -52,7 +52,7 @@ The following diagram illustrates the end-to-end workflow
 of AWS infrastructure provisioning using Terraform and
 automated Kubernetes application deployment using Jenkins.
 
-![Terraform EKS Jenkins Architecture](screenshot/terraform-eks-jenkins-architecture.png)
+![Terraform EKS Jenkins Architecture](Screenshot/terraform-eks-jenkins-architecture.png)
 
 
 ### Architecture Workflow

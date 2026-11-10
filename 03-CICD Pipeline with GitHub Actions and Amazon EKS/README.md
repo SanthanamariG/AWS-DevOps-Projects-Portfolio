@@ -53,7 +53,7 @@ Terraform manages the AWS infrastructure, while Kubernetes and Amazon EKS provid
 
 The following diagram illustrates the end-to-end GitHub Actions CI/CD workflow.
 
-![GitHub Actions EKS Architecture]  (screenshot/github-actions-eks-architecture.png)
+![GitHub Actions EKS Architecture]  (Screenshot/github-actions-eks-architecture.png)
 
 ### Architecture Workflow
 
